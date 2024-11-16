@@ -10,3 +10,7 @@ Config for zsh.
 # Prequisites
 
 My `PROMPT` requires a [Nerd Font](https://www.nerdfonts.com/).  I'm using SauceCodePro
+
+# Branch Specific
+
+This branch has configs that are specific to my fedora workstation.
