@@ -1,3 +1,3 @@
 export EDITOR=/usr/bin/nvim
 
-export PATH=$PATH:$HOME/.local/bin/:$HOME/.local/bin/lua-ls/bin/
+safely_add_to_path "$HOME/.local/bin/lua-ls/bin"
