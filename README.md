@@ -2,9 +2,11 @@
 
 Config for zsh.
 
+# Related repositories
+My main .zshrc can be found in [misc-configs](https://github.com/jburke-dev/misc-confs).
+
 # Features
 
-- enhanced ls with [lsd](https://github.com/lsd-rs/lsd)
 - Smart directory navigation with [zoxide](https://github.com/ajeetdsouza/zoxide)
 
 # Prequisites
