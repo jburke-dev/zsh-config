@@ -1,4 +1,5 @@
 alias cd='z'
 alias zconf='nvim $ZSH_CUSTOM'
+alias ezsh='nvim $HOME/confs/misc-confs/.zshrc'
 alias cat='bat --paging=never'
 alias fff='fzf --preview "bat --color=always {}"'
